@@ -1,0 +1,25 @@
+{
+    "name": "Nord",
+    "comment": "Erik Schreier (erik-schreier@gmx.de) Jun 12 2019",
+    "use-theme-colors": false,
+    "foreground-color": "#d8dee9",
+    "background-color": "#2e3440",
+    "palette": [
+        "#3b4252",
+        "#bf616a",
+        "#a3be8c",
+        "#ebcb8b",
+        "#81a1c1",
+        "#b48ead",
+        "#88c0d0",
+        "#e5e9f0",
+        "#4c566a",
+        "#bf616a",
+        "#a3be8c",
+        "#ebcb8c",
+        "#81a1c1",
+        "#b48ead",
+        "#8fbcbb",
+        "#eceff4"
+    ]
+}
